@@ -18,6 +18,3 @@ void infoDepartamento(struct Departamento *departamentos, int numDepartamentos, 
 
 }
 
-void infoEmpregadosDepartamento(struct Departamento *departamentos, int numDepartamentos, int departamentoId) {
-
-}
